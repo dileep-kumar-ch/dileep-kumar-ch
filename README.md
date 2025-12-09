@@ -11,6 +11,7 @@ writing code that scales, solves real-world problems, and sometimes even makes m
 💻 *Tech I Use*: Backend with Java & Spring Boot, frontend  with React.js & JS  
 📚 *Currently Exploring*:  Microservices, Spring Security, Docker and minimalism in code ✨  
 🛠  *I like building real-world projects to strengthen backend fundamentals 
+
 😂 *Fun Fact*: I spent 2 hours naming a variable... it’s still called temp 🤷‍♂
 
 ---
