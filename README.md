@@ -51,7 +51,6 @@ writing code that scales, solves real-world problems, and sometimes even makes m
 
 - 📧 Email: **chukkala.dileepkumar@gmail.com**  
 - 💼 LinkedIn: **https://www.linkedin.com/in/dileep-kumar-00a932282/**  
-- 👨‍💻 GitHub: **https://github.com/dileep-kumar-ch**  
 - 🧠 GeeksforGeeks: **https://www.geeksforgeeks.org/profile/dileepkumarr?tab=activity**  
 
 ---
