@@ -37,7 +37,6 @@ writing code that scales, solves real-world problems, and sometimes even makes m
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dileep-kumar-ch&theme=dark" width="48%" />
 </p>
