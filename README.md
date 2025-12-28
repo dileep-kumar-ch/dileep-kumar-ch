@@ -23,6 +23,7 @@ writing code that scales, solves real-world problems, and sometimes even makes m
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -50,7 +51,6 @@ writing code that scales, solves real-world problems, and sometimes even makes m
 
 ## 🤝 Let’s Connect
 
-- 📧 Email: **chukkala.dileepkumar@gmail.com**  
 - 💼 LinkedIn: **https://www.linkedin.com/in/dileep-kumar-00a932282/**  
 - 🧠 GeeksforGeeks: **https://www.geeksforgeeks.org/profile/dileepkumarr?tab=activity**  
 
